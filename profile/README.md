@@ -16,7 +16,7 @@ Estudantes em geral.
   - Link do repositório: https://github.com/2022M1T3/Hamurabi
 
 - Grupo 2 - Turing - Jogo "Eu, Presidente?":
-  - Link para jogar: em processo de liberação.
+  - Link para jogar: https://itch.io/queue/c/2399268/eu-presidente?game_id=1463938
   - Link do repositório: https://github.com/2022M1T3/Eu-presidente-turing
 
 - Grupo 3 - Maintech - Jogo "Eu, Presidente?":
